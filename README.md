@@ -9,7 +9,25 @@ L'objectif du projet est de suivre et analyser les interactions SAV afin d'aider
 ## Contenu du depot
 
 - `memoire-sav-dashboard-power-bi.pbix` : rapport Power BI principal.
-- `captures/` : dossier prevu pour ajouter des captures d'ecran du tableau de bord.
+- `image_powerbi/` : captures d'ecran du tableau de bord.
+
+## Apercu du tableau de bord
+
+### Vue globale
+
+![Vue globale](image_powerbi/vue-globale.png)
+
+### Analyse de sentiment
+
+![Analyse de sentiment](image_powerbi/Analyse%20de%20Sentiment.png)
+
+### Analyse temporelle et operationnelle
+
+![Analyse temporelle et operationnelle](image_powerbi/Analyse%20temporelle%20et%20op%C3%A9rationnelle.png)
+
+### Urgence et performance
+
+![Urgence et performance](image_powerbi/Urgence%20%26%20Performance.png)
 
 ## Competences mises en avant
 
